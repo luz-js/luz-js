@@ -36,26 +36,6 @@ I enjoy building software that solves real business problems through clean archi
 
 Currently, I work on enterprise banking solutions while continuously learning modern technologies and building personal projects.
 
----
-
-# 🚀 Currently Working On
-
-🎵 **HarmonyHub**
-
-A modern platform designed for musicians and bands.
-
-Features include:
-
-- Song Management
-- Setlists
-- Events
-- Calendar
-- Rehearsals
-- Multi-tenant Organizations
-- File Management
-
----
-
 # 🛠 Tech Stack
 
 ### Backend
