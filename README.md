@@ -68,17 +68,6 @@ Currently, I work on enterprise banking solutions while continuously learning mo
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/>
 </p>
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luz-js&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luz-js&layout=compact&theme=tokyonight"/>
-
----
 
 # 🌱 Currently Learning
 
